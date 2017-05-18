@@ -3,19 +3,19 @@ body {
 	margin: 0;
 }
 
-.class-1 {
+.red {
 	height: 150px;
 	background: red;
 } 
 
-.class-2 {
+.blue {
 	background: blue;
 	width: 70%;
 	height: 900px;
 	margin: 0 auto;
 }
 
-.class-3 {
+.green {
 	background: green;
 	width: 70%;
 	height:100px;
